@@ -8,6 +8,7 @@ Branch - https://github.com/ishreyakumari/Certifications/tree/Certifications
 - Infosys Certified Python Associate (Infosys)
 - Infosys Certified Python Programmer (Infosys)
 - Infosys Global Agile Developer (Infosys)
+- Intro To Machine Learning (Kaggle)
 - Introduction To Data Science (Coursera)
 - Introduction To Python (Coding Ninjas)
 - Python And Introduction To Data Science (Udemy)
