@@ -12,4 +12,3 @@
 - Introduction To Python (Coding Ninjas)
 - Python And Introduction To Data Science (Udemy)
 - Python (Kaggle)
-Branch - https://github.com/ishreyakumari/Certifications/tree/Certifications
